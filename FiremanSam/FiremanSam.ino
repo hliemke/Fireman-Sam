@@ -1,5 +1,5 @@
 /*
- Fireman Sam main  test this shit
+ Fireman Sam main  modified
  */
 #include <SoftwareSerial.h>
 SoftwareSerial Thermal(2, 3);
