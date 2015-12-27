@@ -1,6 +1,8 @@
 /*
- Fireman Sam main modified test this shit again
+ Fireman Sam main modified for Mega Arduino Board first test on GitHub
  */
+
+ 
 #include <SoftwareSerial.h>
 SoftwareSerial Thermal(2, 3);
 #include <SPI.h>             // for Arduino later than ver 0018||
