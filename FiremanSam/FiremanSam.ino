@@ -16,7 +16,7 @@ int zero=0;
 
 //////////  NETWORK INFO  ////////////////
 
-byte mac[] = { 0x90, 0xA2, 0xDA, 0x0D, 0x78, 0xE0 };  //Set your Ethernet Shield's MAC address here - make sure you replace the MAC Address with your shield's values!
+byte mac[] = { 0x90, 0xA2, 0xDA, 0x0F, 0x69, 0x6C };  //Set your Ethernet Shield's MAC address here - make sure you replace the MAC Address with your shield's values!
 byte ip[] = { 192,168,1,102 };                        // Set your shield's desired IP address here - check your network for configuration details
 //byte gateway[] = { 192,168,1,1 };                   //if you need to set a gateway (Optional)
 //byte subnet[] = { 255,255,255,0 };                  // Change this to your subnet address (Optional)
